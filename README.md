@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Captionsparrow085
+- 👋 Hi, I’m @Captiansparrow085
 - 👀 I’m interested in the cyber security and the ethical hacking .
 - 🌱 I’m currently learning website penetration and the python language .
 - 💞️ I’m looking to collaborate on the.... 
